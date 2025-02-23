@@ -1,0 +1,101 @@
+                   GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+Copyright (C) [2025] [jobpursue.com]
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+                            Preamble
+
+The GNU General Public License is a free, copyleft license for
+software and other kinds of works.  The licenses for most software
+and other practical works are designed to take away your freedom to
+share and change the works.  By contrast, the GNU General Public
+License is intended to guarantee your freedom to share and change
+all versions of a program—so that it becomes free software for all
+its users.  We, the Free Software Foundation, use the GNU General
+Public License for most of our software; it applies also to any
+other work that we release as free software.
+
+You can apply it to your own programs, too.  When we speak of
+free software, we are referring to freedom, not price.  To protect
+your rights, we need to make restrictions that forbid anyone to
+deny you these rights or to ask you to surrender the rights.  These
+restrictions translate to certain responsibilities for you if you
+distribute copies of the software, or if you modify it.
+
+For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must pass on to the recipients the same
+rights that you received.  You must make sure that they, too, can
+change the software and share it.  In addition, you must keep
+intact all the notices that refer to this License and to the
+absence of any warranty.  Also, you must provide a copy of this
+License along with the program.
+
+If you modify the program, you must distribute your modified
+version under the same license, so that it also remains free for
+everyone to use.  We protect your rights with two steps: (1) copy-
+left, the right to make your modifications and use them, and (2)
+our guarantee that you will be treated fairly.
+
+                           TERMS AND CONDITIONS
+
+  0. Definitions.
+  
+     "This License" refers to version 3 of the GNU General Public
+     License.
+  
+     "The Program" refers to any copyrightable work licensed under
+     this License.  Each licensee is addressed as "you".  "Copy",
+     "copying", "modified", "modifying", and "modification" are to
+     be interpreted broadly in this License.
+
+  1. Source Code.
+  
+     The source code for a work means the preferred form of the
+     work for making modifications to it.  For example, if the
+     program is written in a programming language, then the source
+     code is the text of the program in that language, and any
+     associated files and libraries needed to build it.  If the
+     program is an interactive user interface, the source code might
+     be scripts or markup.
+
+  2. Basic Permissions.
+  
+     You may copy, modify, and distribute the Program, including
+     the modified versions, provided that you comply with the terms
+     of this License.  This includes the right to use the Program
+     in a nonprofit or for-profit context, but remember that if you
+     distribute the Program (or modified versions), you must make
+     the source code available under the same GPL license.
+
+  3. Copyleft.
+  
+     This section is a key part of the GPL.  It ensures that the
+     software remains free for everyone.  If you modify the Program
+     and distribute it, you must do so under the same terms—specifically,
+     you must distribute the modified version under the GPL v3.0.
+
+  4. No Warranty.
+  
+     The Program is distributed with the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+  5. Termination.
+  
+     You may not use, copy, distribute, or modify the Program except
+     as expressly provided for under this License.  If you violate
+     any part of this License, your rights under it will be
+     automatically terminated, unless the violation is cured within 30
+     days.
+
+  6. Acceptance.
+  
+     By using, copying, modifying, or distributing the Program (or
+     any work based on the Program), you are agreeing to be bound by
+     the terms of this License.
+
+                  END OF TERMS AND CONDITIONS
+
